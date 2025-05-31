@@ -233,5 +233,5 @@ s:Button("Destroy Gui", function ()
     settings.hive = false
 	lib:Destroy()
 end)
-s:Label("!By Near Hoshinova", Color3.fromRGB(127, 143, 166))
+s:Label("dsc.gg/svcc", Color3.fromRGB(127, 143, 166))
 lib:Keybind("LeftControl")
